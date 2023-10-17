@@ -1,0 +1,13 @@
+Revert "added link to Git docs"
+
+This reverts commit 24e5e97683bded01eda855cd84c6163ed3a59581.
+
+# Por favor ingresa el mensaje del commit para tus cambios. Las
+#  líneas que comiencen con '#' serán ignoradas, y un mensaje
+#  vacío aborta el commit.
+#
+# En la rama master
+# Cambios a ser confirmados:
+#	modificado:     index.html
+#
+REverting: added link
